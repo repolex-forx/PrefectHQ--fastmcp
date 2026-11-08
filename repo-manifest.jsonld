@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/fastmcp/commit/936a9659d871318fc314e7210a191884eeeb8d80",
       "git:hexsha": "936a9659d871318fc314e7210a191884eeeb8d80",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/fastmcp/commit/b125d463a549fb1e81c8d5782b11e2355095e63a",
